@@ -2,3 +2,5 @@
 maksymstep added text = "Hello GIT"
 2fd
 Olehasura
+2f
+Oleh 2.0
